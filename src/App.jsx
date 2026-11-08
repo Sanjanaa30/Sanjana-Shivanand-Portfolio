@@ -5,7 +5,7 @@ import DataFlow from './DataFlow';
 import Backdrop from './Backdrop';
 import useInteractive3D from './useInteractive3D';
 import profilePhoto from '../profile photo.jpeg';
-import resumePdf from '../Sanjana_Shivanand_Resume.pdf';
+import resumePdf from '../Sanjana_Shivanand_SDE_Resume.pdf';
 
 const navItems = ['Home', 'Systems', 'Education', 'Experience', 'Projects', 'Skills', 'Contact'];
 
@@ -53,7 +53,7 @@ const experiences = [
     ]
   },
   {
-    dates: 'January 2024 - October 2024', role: 'Data Analyst & Machine Learning Project Intern', company: 'Centre for Development of Telematics (C-DOT)', location: 'Bangalore, India · Onsite',
+    dates: 'October 2023 - October 2024', role: 'Data Analyst & Machine Learning Project Intern', company: 'Centre for Development of Telematics (C-DOT)', location: 'Bangalore, India · Onsite',
     tags: ['Python', 'MySQL', 'Django', 'Data Processing', 'Machine Learning', 'Deep Learning'],
     bullets: [
       'Built data ingestion and preprocessing workflows for multi-source Open Radio Area 5G Network datasets, including profiling, imputation, encoding, normalization, and schema validation.',
