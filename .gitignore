@@ -4,4 +4,4 @@ dist
 .DS_Store
 *.local
 *.pdf
-Sanjana_Shivanand_SDE_Resume.pdf
+!Sanjana_Shivanand_SDE_Resume.pdf
